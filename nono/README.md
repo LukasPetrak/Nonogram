@@ -5,7 +5,7 @@ It is simple Nonogram game which was written in Python.
 
 ## Ukázka hry
 
-![Ukázka hry](https://github.com/LukasPetrak/Projects/blob/main/Nonogram/nono/gif.gif)
+![Ukázka hry](https://github.com/LukasPetrak/Nonogram/blob/main/nono/gif.gif)
 
 ## Game Controls
 
