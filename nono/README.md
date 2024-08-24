@@ -17,7 +17,7 @@ It is simple Nonogram game which was written in Python.
 
 Clone this repository
    ```bash
-   git clone https://github.com/LukasPetrak/Projects/tree/main/Nonogram
+   git clone https://github.com/LukasPetrak/Projects/Nonogram
    ```
 Run the game
    ```bash
