@@ -1,2 +1,2 @@
-# Nonogram
-Nonogram game with Backtracking
+# Nonogram solver
+Simple Nonogram solver written in python 
