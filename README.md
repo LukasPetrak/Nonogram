@@ -1,2 +1,2 @@
 # Nonogram
-Backtracking
+Nonogram game with Backtracking
